@@ -1,0 +1,347 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content" >
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		tinhlai
+     *	@date 		Sunday 27th of August 2023 03:39:47 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <LinearLayout
+        android:id="@+id/dunogiamdan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="360dp"
+            android:layout_height="match_parent" >
+
+            <View   android:id="@+id/_bg__dunogiamdan"
+                android:background="@drawable/_bg__dunogiamdan_shape"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:layout_width="360dp"
+                android:layout_height="match_parent" />
+
+            <View   android:id="@+id/rectangle_6"
+                android:background="@drawable/rectangle_6_shape"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:layout_width="360dp"
+                android:layout_height="45dp" />
+
+            <TextView android:id="@+id/ph_m_m_m_h__tr__kim_th_o__i_l_m"
+                android:textSize="20sp"
+                android:shadowRadius="4"
+                android:shadowColor="#000000"
+                android:shadowDx="0"
+                android:shadowDy="4"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="12dp"
+                android:layout_width="355dp"
+                android:layout_height="56dp"
+                android:text="@string/ph_m_m_m_h__tr__kim_th_o__i_l_m_string"
+                />
+
+            <TextView android:id="@+id/ti_n_vay__vnd_"
+                android:textSize="15sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="41dp"
+                android:layout_marginTop="110dp"
+                android:layout_width="127.5dp"
+                android:layout_height="28.5dp"
+                android:text="Tiền vay (VND)"
+                />
+
+            <TextView android:id="@+id/k__h_n__th_ng_"
+                android:textSize="15sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="195dp"
+                android:layout_width="124.5dp"
+                android:layout_height="28.5dp"
+                android:text="@string/k__h_n__th_ng__string"
+                />
+            <TextView android:id="@+id/thongBao"
+                android:textSize="15sp"
+                android:textColor="@color/red"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="260dp"
+                android:layout_width="150dp"
+                android:layout_height="28.5dp"
+                android:text=""
+                />
+
+            <TextView android:id="@+id/l_i_su_t____"
+                android:textSize="15sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="209dp"
+                android:layout_marginTop="195dp"
+                android:layout_width="103.5dp"
+                android:layout_height="28.5dp"
+                android:text="@string/l_i_su_t_____string"
+                />
+
+            <ImageView android:id="@+id/subtract"
+                android:src="@drawable/subtract"
+                android:contentDescription="subtract"
+                android:layout_marginStart="39dp"
+                android:layout_marginTop="301dp"
+                android:layout_width="282dp"
+                android:layout_height="284dp" />
+
+            <TextView android:id="@+id/chi_ti_t_g_i"
+                android:textSize="20sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="314dp"
+                android:layout_width="125dp"
+                android:layout_height="38dp"
+                android:text="@string/chi_ti_t_g_i_string"
+                />
+
+            <TextView android:id="@+id/s__ti_n_vay"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="53dp"
+                android:layout_marginTop="355dp"
+                android:layout_width="92dp"
+                android:layout_height="27dp"
+                android:text="Số tiền vay"
+                />
+
+            <TextView android:id="@+id/t_ng_l_i"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="53dp"
+                android:layout_marginTop="463dp"
+                android:layout_width="100dp"
+                android:layout_height="27dp"
+                android:text="Trả hàng tháng"
+                />
+
+            <TextView android:id="@+id/t_ng_tr_"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="53dp"
+                android:layout_marginTop="499dp"
+                android:layout_width="75dp"
+                android:layout_height="27dp"
+                android:text="Tổng trả"
+                />
+
+            <TextView android:id="@+id/l_i_h_ng_th_ng"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="53dp"
+                android:layout_marginTop="427dp"
+                android:layout_width="117dp"
+                android:layout_height="27dp"
+                android:text="@string/l_i_h_ng_th_ng_string"
+                />
+
+            <TextView android:id="@+id/k__h_n"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="53dp"
+                android:layout_marginTop="391dp"
+                android:layout_width="64dp"
+                android:layout_height="27dp"
+                android:text="@string/k__h_n_string"
+                />
+
+            <TextView android:id="@+id/_11111"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="191dp"
+                android:layout_marginTop="357dp"
+                android:layout_width="130dp"
+                android:layout_height="27dp"
+                android:text=""
+                />
+
+            <TextView android:id="@+id/_4444"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="191dp"
+                android:layout_marginTop="465dp"
+                android:layout_width="130dp"
+                android:layout_height="27dp"
+                android:text=""
+                />
+
+            <TextView android:id="@+id/_5555"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="191dp"
+                android:layout_marginTop="501dp"
+                android:layout_width="130dp"
+                android:layout_height="27dp"
+                android:text=""
+                />
+
+            <TextView android:id="@+id/_3333"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="191dp"
+                android:layout_marginTop="429dp"
+                android:layout_width="130dp"
+                android:layout_height="27dp"
+                android:text=""
+                />
+
+            <TextView android:id="@+id/_2222"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="191dp"
+                android:layout_marginTop="393dp"
+                android:layout_width="100dp"
+                android:layout_height="27dp"
+                android:text=""
+                />
+
+            <TextView android:id="@+id/tttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="54dp"
+                android:layout_marginTop="544dp"
+                android:layout_width="271dp"
+                android:layout_height="43dp"
+                android:text="@string/tttttttttttttttttttttttttttttttttttttttttttttttttttttttt_string"
+                />
+
+            <View   android:id="@+id/btnTinh"
+                android:background="@drawable/rectangle_13_shape"
+                android:layout_marginStart="233dp"
+                android:layout_marginTop="260dp"
+                android:layout_width="90dp"
+                android:layout_height="30dp" />
+
+            <TextView android:id="@+id/t_nh"
+                android:textSize="20sp"
+                android:textColor="@color/t_nh_color"
+                android:layout_marginLeft="255dp"
+                android:layout_marginTop="263dp"
+                android:layout_width="73dp"
+                android:layout_height="38dp"
+                android:text="@string/t_nh_string"
+                />
+
+            <TextView android:id="@+id/vay"
+                android:textSize="20sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="39dp"
+                android:layout_marginTop="65dp"
+                android:layout_width="150dp"
+                android:layout_height="38dp"
+                android:text="Dư nợ gốc"
+                />
+
+            <ImageView android:id="@+id/rectangle_11"
+                android:src="@drawable/rectangle_11"
+                android:contentDescription="rectangle_11"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="596.5dp"
+                android:layout_width="360dp"
+                android:layout_height="158dp" />
+
+            <TextView android:id="@+id/__________________________________________________________________"
+                android:textStyle="italic"
+                android:textSize="14sp"
+                android:textColor="@color/_bg__tinhlai_color"
+                android:layout_marginLeft="115dp"
+                android:layout_marginTop="700dp"
+                android:layout_width="wrap_content"
+                android:layout_height="27dp"
+                android:text="@string/dongcuoi"
+                />
+
+
+            <RelativeLayout android:id="@+id/group_13"
+                android:layout_marginTop="132dp"
+                android:layout_marginStart="41dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/rectangle_7"
+                    android:background="@drawable/rectangle_7_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_width="282dp"
+                    android:layout_height="34dp" />
+
+                <EditText
+                    android:id="@+id/edtTienVay"
+                    android:layout_width="272dp"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="5dp"
+                    android:ems="10"
+                    android:inputType="number" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_14"
+                android:layout_marginTop="218dp"
+                android:layout_marginStart="41dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/rectangle_8"
+                    android:background="@drawable/rectangle_8_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_width="125dp"
+                    android:layout_height="30dp" />
+
+                <EditText
+                    android:id="@+id/edtThang"
+                    android:layout_width="115dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:ems="10"
+                    android:inputType="number" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_15"
+                android:layout_marginTop="218dp"
+                android:layout_marginStart="209dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/rectangle_9"
+                    android:background="@drawable/rectangle_9_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_width="114dp"
+                    android:layout_height="30dp" />
+
+                <EditText
+                    android:id="@+id/edtLaiSuat"
+                    android:layout_width="104dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</HorizontalScrollView>

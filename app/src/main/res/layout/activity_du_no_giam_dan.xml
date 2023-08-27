@@ -1,0 +1,333 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		dunogiamdan
+     *	@date 		Friday 25th of August 2023 01:08:25 PM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <LinearLayout
+        android:id="@+id/dunogiamdan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="360dp"
+            android:layout_height="match_parent" >
+
+            <View   android:id="@+id/_bg__dunogiamdan"
+                android:background="@drawable/_bg__dunogiamdan_shape"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:layout_width="360dp"
+                android:layout_height="match_parent" />
+
+            <View   android:id="@+id/rectangle_6"
+                android:background="@drawable/rectangle_6_shape"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:layout_width="360dp"
+                android:layout_height="45dp" />
+
+            <TextView android:id="@+id/ph_m_m_m_h__tr__kim_th_o__i_l_m"
+                android:textSize="20sp"
+                android:shadowRadius="4"
+                android:shadowColor="#000000"
+                android:shadowDx="0"
+                android:shadowDy="4"
+                android:textColor="@color/_bg__dunogiamdan_color"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="12dp"
+                android:layout_width="355dp"
+                android:layout_height="56dp"
+                android:text="@string/ph_m_m_m_h__tr__kim_th_o__i_l_m_string"
+                />
+
+            <TextView android:id="@+id/ti_n_vay__vnd_"
+                android:textSize="15sp"
+                android:textColor="@color/_bg__dunogiamdan_color"
+                android:layout_marginLeft="41dp"
+                android:layout_marginTop="110dp"
+                android:layout_width="127.5dp"
+                android:layout_height="28.5dp"
+                android:text="@string/ti_n_vay__vnd__string"
+                />
+
+            <TextView android:id="@+id/k__h_n__th_ng_"
+                android:textSize="15sp"
+                android:textColor="@color/_bg__dunogiamdan_color"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="179dp"
+                android:layout_width="124.5dp"
+                android:layout_height="28.5dp"
+                android:text="@string/k__h_n__th_ng__string"
+                />
+            <TextView android:id="@+id/thongBao"
+                android:textSize="15sp"
+                android:textColor="@color/red"
+                android:layout_marginLeft="42dp"
+                android:layout_marginTop="250dp"
+                android:layout_width="150dp"
+                android:layout_height="28.5dp"
+                android:text=""
+                />
+
+            <TextView android:id="@+id/l_i_su_t____"
+                android:textSize="15sp"
+                android:textColor="@color/_bg__dunogiamdan_color"
+                android:layout_marginLeft="209dp"
+                android:layout_marginTop="179dp"
+                android:layout_width="103.5dp"
+                android:layout_height="28.5dp"
+                android:text="@string/l_i_su_t_____string"
+                />
+
+
+            <RelativeLayout android:id="@+id/group_10"
+                android:layout_marginTop="244dp"
+                android:layout_marginStart="233dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/btnTinh"
+                    android:background="@drawable/rectangle_13_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="90dp"
+                    android:layout_height="30dp" />
+
+                <TextView android:id="@+id/t_nh"
+                    android:textSize="20sp"
+                    android:textColor="@color/t_nh_color"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="73dp"
+                    android:layout_height="38dp"
+                    android:text="@string/t_nh_string"
+                    />
+
+            </RelativeLayout>
+
+            <TextView android:id="@+id/d__n__gi_m_d_n"
+                android:textSize="20sp"
+                android:textColor="@color/_bg__dunogiamdan_color"
+                android:layout_marginLeft="39dp"
+                android:layout_marginTop="65dp"
+                android:layout_width="172dp"
+                android:layout_height="38dp"
+                android:text="@string/d__n__gi_m_d_n_string" />
+
+            <ImageView
+                android:id="@+id/rectangle_11"
+                android:layout_width="360dp"
+                android:layout_height="158dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="0dp"
+                android:contentDescription="rectangle_11"
+                android:src="@drawable/rectangle_11" />
+            <TextView
+                android:id="@+id/dongcuoi"
+                android:layout_width="291dp"
+                android:layout_height="27dp"
+                android:layout_marginLeft="115dp"
+                android:layout_marginTop="700dp"
+                android:text="@string/dongcuoi"
+                android:textColor="@color/_bg__dunogiamdan_color"
+                android:textSize="14sp"
+                android:textStyle="italic" />
+
+
+            <RelativeLayout android:id="@+id/group_7"
+                android:layout_marginTop="133dp"
+                android:layout_marginStart="41dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/rectangle_7"
+                    android:background="@drawable/rectangle_7_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="282dp"
+                    android:layout_height="34dp" />
+
+                <EditText
+                    android:id="@+id/edtTienVay"
+                    android:layout_width="272dp"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="5dp"
+                    android:ems="10"
+                    android:inputType="number" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_8"
+                android:layout_marginTop="203dp"
+                android:layout_marginStart="41dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/rectangle_8"
+                    android:background="@drawable/rectangle_8_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="125dp"
+                    android:layout_height="30dp" />
+
+                <EditText
+                    android:id="@+id/edtThang"
+                    android:layout_width="115dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:ems="10"
+                    android:inputType="number" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_9"
+                android:layout_marginTop="203dp"
+                android:layout_marginStart="209dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/rectangle_9"
+                    android:background="@drawable/rectangle_9_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="114dp"
+                    android:layout_height="30dp" />
+
+                <EditText
+                    android:id="@+id/edtLaiSuat"
+                    android:layout_width="104dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:ems="10"
+                    android:inputType="numberDecimal"
+                   />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_11"
+                android:layout_marginTop="286dp"
+                android:layout_marginStart="20dp"
+                android:layout_width="321dp"
+                android:layout_height="350dp"
+                >
+                <TableLayout
+                    android:id="@+id/tableLayout1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginRight="0dp"
+                    android:stretchColumns="*">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:background="@drawable/header_shape"
+                            android:gravity="center"
+                            android:text="kỳ"
+                            android:textColor="#000000"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.1225"
+                            android:background="@drawable/header_shape"
+                            android:gravity="center"
+                            android:text="Gốc còn lại"
+                            android:textColor="#000000"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.1225"
+                            android:background="@drawable/header_shape"
+                            android:gravity="center"
+                            android:text="Gốc phải trả"
+                            android:textColor="#000000"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.0"
+                            android:background="@drawable/header_shape"
+                            android:gravity="center"
+                            android:text="Lãi phải trả"
+                            android:textColor="#000000"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.2"
+                            android:background="@drawable/header_shape"
+                            android:gravity="center"
+                            android:text="Tổng gốc và lãi"
+                            android:textColor="#000000"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+
+                    </TableRow>
+
+                </TableLayout>
+                <ScrollView
+                    android:id="@+id/scrollview"
+                    android:layout_width="match_parent"
+                    android:layout_height="350dp"
+                    android:layout_marginTop="14dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    >
+
+                    <TableLayout
+                        android:id="@+id/tableLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginRight="0dp"
+                        android:stretchColumns="*">
+                    </TableLayout>
+
+                </ScrollView>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</HorizontalScrollView>

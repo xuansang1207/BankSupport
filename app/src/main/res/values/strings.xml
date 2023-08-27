@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BankSoprt</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="ph_m_m_m_h__tr__kim_th_o__i_l_m_string">Phần mềm hỗ trợ kim thảo đi làm</string>
+    <string name="d__n__gi_m_d_n_string">Dư nợ giảm dần</string>
+    <string name="dongcuoi">(*) Sai số tối đa là 100đ</string>
+    <string name="ti_n_vay__vnd__string">Tiền vay (VND)</string>
+    <string name="k__h_n__th_ng__string">Kỳ hạn(tháng)</string>
+    <string name="l_i_su_t_____string">Lãi suất (%)</string>
+    <string name="chi_ti_t_g_i_string">chi tiết gửi</string>
+    <string name="s__ti_n_vay_string">Số tiền vay</string>
+    <string name="t_ng_l_i_string">Tổng lãi</string>
+    <string name="t_ng_tr__string">Tổng trả</string>
+    <string name="l_i_h_ng_th_ng_string">Lãi hàng tháng</string>
+    <string name="k__h_n_string">Kỳ hạn</string>
+    <string name="_11111_string">11111</string>
+    <string name="_4444_string">4444</string>
+    <string name="_5555_string">5555</string>
+    <string name="_3333_string">3333</string>
+    <string name="_2222_string">2222</string>
+    <string name="tttttttttttttttttttttttttttttttttttttttttttttttttttttttt_string"></string>
+    <string name="t_nh_string">Tính</string>
+    <string name="vay_string">Vay</string>
+    <string name="t_m_ki_m_string">Tm</string>
+    <string name="g_i_tk_string">Gửi TK</string>
+    <string name="t_nh_l_i_string">Tính lãi</string>
+    <string name="t_nh_d__n__string">Dư nợ</string>
+    <string name="tr__g_p_string">Trả gióp</string>
+
+</resources>
